@@ -1,0 +1,17 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	renamed:    Bai1 -> Cau1
+#	new file:   Cau10
+#	new file:   Cau2
+#	new file:   Cau3
+#	new file:   Cau4
+#	new file:   Cau5
+#	new file:   Cau6
+#	new file:   Cau7
+#	new file:   Cau8
+#	new file:   Cau9
+#

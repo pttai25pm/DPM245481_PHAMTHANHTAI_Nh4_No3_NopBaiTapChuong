@@ -1,0 +1,11 @@
+Câu 7: Trình bày một số cách nhập dữ liệu từ bàn phím.
+
+
+#Nhập chuỗi : input()	
+#Ví dụ	name = input()
+#Nhập số nguyên / thực : int(input()) / float(input()) 
+# Ví dụ :	age = int(input())
+#Nhập nhiều chuỗi : input().split()
+#Ví dụ : a, b = input().split()
+#Nhập nhiều số : [int(x) for x in input().split()]
+#Ví dụ : lst = [int(x) for x in ...]

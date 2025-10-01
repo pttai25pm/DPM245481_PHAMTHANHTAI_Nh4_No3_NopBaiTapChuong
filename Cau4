@@ -1,0 +1,12 @@
+#Câu 4: Python hỗ trợ những kiểu dữ liệu cơ bản nào?
+
+#int	        :Số nguyên
+#float	        :Số thực
+#complex	    :Số phức
+#str	        :Chuỗi
+#bool	        :Boolean (True / False)
+#list	        :Danh sách
+#tuple	        :Bộ giá trị
+#set	        :Tập hợp
+#dict	        :Từ điển
+#NoneType	    :Không có giá trị

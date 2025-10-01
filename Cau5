@@ -1,0 +1,13 @@
+#Cách 1: Dùng nhiều dấu # liên tiếp
+        # Đây là dòng ghi chú thứ 1
+        # Đây là dòng ghi chú thứ 2
+        # Đây là dòng ghi chú thứ 3
+
+#Cách 2: Dùng chuỗi nhiều dòng (''' ... ''' hoặc """ ... """)
+
+#Mặc dù đây là chuỗi đa dòng, nếu không gán cho biến thì nó được coi như ghi chú.
+
+#'''
+#Đây là ghi chú nhiều dòng
+#dùng dấu nháy đơn 3 lần
+#'''
